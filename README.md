@@ -170,7 +170,7 @@ pip install -r requirements.txt
 ### 2. Run Analysis Notebook (Core Insights)
 
 ```bash
-jupyter notebook notebooks/analysis.ipynb
+jupyter notebook Notebook/analysis.ipynb
 ```
 
 This notebook includes:
@@ -185,7 +185,7 @@ This notebook includes:
 ### 3. Run Machine Learning Notebook (Bonus)
 
 ```bash
-jupyter notebook notebooks/model_training.ipynb
+jupyter notebook Notebook/model_training.ipynb
 ```
 
 This notebook includes:
